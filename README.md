@@ -9,19 +9,20 @@ This is a public API that returns basic information, including:
 - GitHub repository URL
 
 ## API Endpoint
-**Base URL:** `https://your-api-url.com/`
+**Base URL:** `https://hng12task0.up.railway.app`
 
 ## How to run Locally
 - Clone the repo
-`git clone https://github.com/yourusername/your-repo.git
+```git clone https://github.com/clementnduonyi/hng12_task_0.git
  cd your-repo
-`
+
 - Install dependency
+
 ```npm install
-```
+
 - Start server
 ```node index.js
-```
+
 
 - Open http://localhost:5000 on your browser
 
@@ -34,5 +35,5 @@ This is a public API that returns basic information, including:
   "github_url": "repo url"
 }
 
-[Hire brilliant Node js Developer](https://hng.tech/hire/nodejs-developers)
+[Hire brilliant Node js Developer]:(https://hng.tech/hire/nodejs-developers)
 
