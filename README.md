@@ -4,7 +4,7 @@
 
 ## Project Description
 This is a public API that returns basic information, including:
-- My registered email with **HNG12 INTERNSHIP**
+- My registered email with **HNG12 INTERNSHIP WORKSPACE**
 - The current date/time in ISO 8601 format
 - GitHub repository URL
 
@@ -15,18 +15,18 @@ This is a public API that returns basic information, including:
 - Clone the repo
 ```
 $ git clone `https://github.com/clementnduonyi/hng12_task_0.git`
-cd your-repo
+$ cd your-repo
 ```
 
 - Install dependency
 
 ```
-npm install
+$ npm install
 ```
 
 - Start server
 ```
-node index.js
+$ node index.js
 ```
 
 
